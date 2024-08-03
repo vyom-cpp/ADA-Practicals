@@ -11,7 +11,7 @@ long long sumUsingLoop(int N, int *steps) {
 }
 
 int main() {
-    int N = 100;
+    int N = 10000000;
     int steps = 0;
     clock_t start, end;
     double cpu_time_used;
